@@ -1,0 +1,12 @@
+/Users/tim/Desktop/rtest/target/debug/deps/libarrow_arith-6f5e19b8af335f36.rmeta: /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/lib.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/aggregate.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/arithmetic.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/arity.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/bitwise.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/boolean.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/numeric.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/temporal.rs
+
+/Users/tim/Desktop/rtest/target/debug/deps/arrow_arith-6f5e19b8af335f36.d: /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/lib.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/aggregate.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/arithmetic.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/arity.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/bitwise.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/boolean.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/numeric.rs /Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/temporal.rs
+
+/Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/lib.rs:
+/Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/aggregate.rs:
+/Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/arithmetic.rs:
+/Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/arity.rs:
+/Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/bitwise.rs:
+/Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/boolean.rs:
+/Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/numeric.rs:
+/Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrow-arith-53.2.0/src/temporal.rs:
