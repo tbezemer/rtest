@@ -1,0 +1,18 @@
+/Users/tim/Desktop/rust_template/rtest/target/debug/deps/libcc-48a3d99f440ec08b.rmeta: /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/lib.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/mod.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/async_executor.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/job_token.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/stderr.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/windows/mod.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/windows/find_tools.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/command_helpers.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/tool.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/target_info.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/tempfile.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/detect_compiler_family.c
+
+/Users/tim/Desktop/rust_template/rtest/target/debug/deps/libcc-48a3d99f440ec08b.rlib: /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/lib.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/mod.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/async_executor.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/job_token.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/stderr.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/windows/mod.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/windows/find_tools.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/command_helpers.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/tool.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/target_info.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/tempfile.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/detect_compiler_family.c
+
+/Users/tim/Desktop/rust_template/rtest/target/debug/deps/cc-48a3d99f440ec08b.d: /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/lib.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/mod.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/async_executor.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/job_token.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/stderr.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/windows/mod.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/windows/find_tools.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/command_helpers.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/tool.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/target_info.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/tempfile.rs /Users/tim/Desktop/rust_template/rtest/vendor/cc/src/detect_compiler_family.c
+
+/Users/tim/Desktop/rust_template/rtest/vendor/cc/src/lib.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/mod.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/async_executor.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/job_token.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/cc/src/parallel/stderr.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/cc/src/windows/mod.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/cc/src/windows/find_tools.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/cc/src/command_helpers.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/cc/src/tool.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/cc/src/target_info.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/cc/src/tempfile.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/cc/src/detect_compiler_family.c:

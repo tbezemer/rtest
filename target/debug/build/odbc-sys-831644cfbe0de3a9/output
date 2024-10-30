@@ -1,0 +1,5 @@
+cargo:rustc-link-search=native=/Users/tim/Desktop/rust_template/rtest/target/debug/deps
+cargo:rustc-link-search=native=/Users/tim/.rustup/toolchains/stable-aarch64-apple-darwin/lib
+cargo:rustc-link-search=native=/Users/tim/lib
+cargo:rustc-link-search=native=/usr/local/lib
+cargo:rustc-link-search=native=/usr/lib

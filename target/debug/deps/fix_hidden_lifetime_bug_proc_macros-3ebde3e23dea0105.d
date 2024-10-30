@@ -1,0 +1,9 @@
+/Users/tim/Desktop/rust_template/rtest/target/debug/deps/libfix_hidden_lifetime_bug_proc_macros-3ebde3e23dea0105.dylib: /Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/mod.rs /Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/append_captures_hack_to_impl_occurrences.rs /Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/collect_lifetime_params.rs /Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/manually_unsugar_async.rs /Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/params.rs
+
+/Users/tim/Desktop/rust_template/rtest/target/debug/deps/fix_hidden_lifetime_bug_proc_macros-3ebde3e23dea0105.d: /Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/mod.rs /Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/append_captures_hack_to_impl_occurrences.rs /Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/collect_lifetime_params.rs /Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/manually_unsugar_async.rs /Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/params.rs
+
+/Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/mod.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/append_captures_hack_to_impl_occurrences.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/collect_lifetime_params.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/manually_unsugar_async.rs:
+/Users/tim/Desktop/rust_template/rtest/vendor/fix-hidden-lifetime-bug-proc_macros/params.rs:
