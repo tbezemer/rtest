@@ -1,5 +1,5 @@
 cargo:rerun-if-env-changed=ZSTD_SYS_USE_PKG_CONFIG
-OUT_DIR = Some(/Users/tim/Desktop/rust_template/rtest/target/debug/build/zstd-sys-93672f70c60f412d/out)
+OUT_DIR = Some(/Users/tim/Desktop/rtest/target/debug/build/zstd-sys-93672f70c60f412d/out)
 TARGET = Some(aarch64-apple-darwin)
 OPT_LEVEL = Some(0)
 HOST = Some(aarch64-apple-darwin)
@@ -26,7 +26,7 @@ cargo:rerun-if-env-changed=HOST_CFLAGS
 HOST_CFLAGS = None
 cargo:rerun-if-env-changed=CFLAGS
 CFLAGS = None
-OUT_DIR = Some(/Users/tim/Desktop/rust_template/rtest/target/debug/build/zstd-sys-93672f70c60f412d/out)
+OUT_DIR = Some(/Users/tim/Desktop/rtest/target/debug/build/zstd-sys-93672f70c60f412d/out)
 cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
 cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
 CRATE_CC_NO_DEFAULTS = None
@@ -41,7 +41,7 @@ cargo:rerun-if-env-changed=HOST_CFLAGS
 HOST_CFLAGS = None
 cargo:rerun-if-env-changed=CFLAGS
 CFLAGS = None
-OUT_DIR = Some(/Users/tim/Desktop/rust_template/rtest/target/debug/build/zstd-sys-93672f70c60f412d/out)
+OUT_DIR = Some(/Users/tim/Desktop/rtest/target/debug/build/zstd-sys-93672f70c60f412d/out)
 cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
 cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
 CRATE_CC_NO_DEFAULTS = None
@@ -56,7 +56,7 @@ cargo:rerun-if-env-changed=HOST_CFLAGS
 HOST_CFLAGS = None
 cargo:rerun-if-env-changed=CFLAGS
 CFLAGS = None
-OUT_DIR = Some(/Users/tim/Desktop/rust_template/rtest/target/debug/build/zstd-sys-93672f70c60f412d/out)
+OUT_DIR = Some(/Users/tim/Desktop/rtest/target/debug/build/zstd-sys-93672f70c60f412d/out)
 cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
 cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
 CRATE_CC_NO_DEFAULTS = None
@@ -113,6 +113,6 @@ HOST_ARFLAGS = None
 cargo:rerun-if-env-changed=ARFLAGS
 ARFLAGS = None
 cargo:rustc-link-lib=static=zstd
-cargo:rustc-link-search=native=/Users/tim/Desktop/rust_template/rtest/target/debug/build/zstd-sys-93672f70c60f412d/out
-cargo:root=/Users/tim/Desktop/rust_template/rtest/target/debug/build/zstd-sys-93672f70c60f412d/out
-cargo:include=/Users/tim/Desktop/rust_template/rtest/vendor/zstd-sys/zstd/lib
+cargo:rustc-link-search=native=/Users/tim/Desktop/rtest/target/debug/build/zstd-sys-93672f70c60f412d/out
+cargo:root=/Users/tim/Desktop/rtest/target/debug/build/zstd-sys-93672f70c60f412d/out
+cargo:include=/Users/tim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.13+zstd.1.5.6/zstd/lib

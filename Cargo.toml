@@ -13,3 +13,5 @@ directory = "vendor"
 [dependencies]
 odbc-api = "9.0.0"
 parquet = "53.2.0"
+anyhow = "1.0.91"
+csv = "1.3.0"
