@@ -3,15 +3,9 @@ name = "rtest"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-[source.crates-io]
-replace-with = "vendored-sources"
-
-[source.vendored-sources]
-directory = "vendor"
-
 [dependencies]
 parquet = "53.2.0"
 anyhow = "1.0.91"
 arrow-odbc = "13.0.0"
 toml = "0.8.19"
+clap = { version = "4.5.20", features = ["derive"] }
