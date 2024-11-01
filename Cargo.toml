@@ -8,4 +8,5 @@ parquet = "53.2.0"
 anyhow = "1.0.91"
 arrow-odbc = "13.0.0"
 toml = "0.8.19"
+serde = { version = "1.0.214", features = ["derive"] }
 clap = { version = "4.5.20", features = ["derive"] }
